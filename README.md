@@ -1,4 +1,4 @@
-# Hi, I'm Varshitha K. 👋
+# Hi, I'm Varshitha K. 
 
 ### Electronics & Communication Engineering Graduate | Embedded Systems | IoT
 
@@ -8,15 +8,15 @@ I enjoy exploring how hardware and software work together to build practical sol
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 B.E. in Electronics & Communication Engineering
-- 🔌 Interested in Embedded Systems and Microcontroller Development
-- 🌐 Exploring IoT-based applications and sensor integration
-- 💻 Developing my knowledge of Embedded C and Python
-- 🚀 Continuously learning and building technical projects
+- B.E. in Electronics & Communication Engineering
+- Interested in Embedded Systems and Microcontroller Development
+- Exploring IoT-based applications and sensor integration
+- Developing my knowledge of Embedded C and Python
+- Continuously learning and building technical projects
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Embedded Systems:** Microcontrollers, Embedded Systems Fundamentals
 - **IoT:** Internet of Things, Sensor-Based Monitoring
@@ -25,7 +25,7 @@ I enjoy exploring how hardware and software work together to build practical sol
 - **Electronics:** Digital Electronics
 - **Communication Protocols:** UART, SPI, I2C (Fundamentals)
 
-## 📂 Projects
+## Projects
 
 ### 1. IoT-Based Smart Parking System with Live Status
 An IoT-based project focused on monitoring parking-space availability using sensor-based detection and connected monitoring.
@@ -39,7 +39,7 @@ An academic project exploring intelligent traffic signal control to support emer
 ### 4. Breast Cancer Detection Using Machine Learning
 An academic mini project exploring machine learning techniques for breast cancer classification.
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Embedded C Programming
 - Microcontroller Programming
@@ -47,7 +47,7 @@ An academic mini project exploring machine learning techniques for breast cancer
 - IoT Applications
 - German Language
 
-## 🔗 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/varshitha-k-8a228225a
 
